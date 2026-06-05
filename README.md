@@ -43,7 +43,7 @@ Este projeto é distribuído na esperança de ser útil, mas SEM QUALQUER GARANT
 Veja a licença para mais detalhes.
 
 ## Contribution 🤝
-Sinta-se à vontade para fazer um fork do repositório, enviar issues ou criar pull requests. Suas contribuições são bem-vindas!
+Sinta-se à vontade para fazer uma cópia do repositório, para suas necessidades. Suas contribuições são bem-vindas!
 
 <!-- Linkedin -->
 
