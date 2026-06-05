@@ -1,7 +1,8 @@
 # J.A.R.V.I.S - Just A Rather Very Intelligent System 🤖
 
-**Welcome to J.A.R.V.I.S!**  
-J.A.R.V.I.S (Just A Rather Very Intelligent System) is an advanced AI assistant inspired by Iron Man's Jarvis, designed to assist with various tasks, from navigating websites to controlling your PC with natural language commands.
+**Bem-vindo ao J.A.R.V.I.S!**
+
+J.A.R.V.I.S (Just A Rather Very Intelligent System) é um assistente de IA avançado inspirado no Jarvis do Homem de Ferro, projetado para ajudar em várias tarefas, desde navegar em sites até controlar seu PC com comandos em linguagem natural.
 
 <img width="3840" height="2160" alt="iron-man-outline-3840x2160-23956" src="https://github.com/user-attachments/assets/71859f93-ec7e-479b-858c-dd347ba4955e" />
 
