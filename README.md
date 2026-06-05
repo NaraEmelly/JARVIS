@@ -26,6 +26,20 @@ To start the assistant, run:
 python jarvis.py
 ```
 
+# J A R V I S
+
+Este projeto é uma versão modificada de um software originalmente licenciado sob a GNU General Public License v3.0 (GPL-3.0).
+
+As modificações feitas por mim foram adaptadas para meu uso pessoal e/ou para estudos e desenvolvimento.
+
+## Licença
+Este projeto continua licenciado sob a GNU GPL v3.0.
+Consulte o arquivo `LICENSE` para o texto completo da licença.
+
+## Aviso
+Este projeto é distribuído na esperança de ser útil, mas SEM QUALQUER GARANTIA.
+Veja a licença para mais detalhes.
+
 ## Contribution 🤝
 Feel free to fork the repository, submit issues, or create pull requests. Your contributions are welcome!
 
