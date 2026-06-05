@@ -36,17 +36,15 @@ As modificações feitas por mim foram adaptadas para meu uso pessoal e/ou para 
 
 ## Licença
 Este projeto continua licenciado sob a GNU GPL v3.0.
-Consulte o arquivo `LICENSE` para o texto completo da licença.
+Consulte o arquivo `LICENSE` para o texto completo da licença. - see the [LICENSE](LICENSE) file for details.
 
 ## Aviso
 Este projeto é distribuído na esperança de ser útil, mas SEM QUALQUER GARANTIA.
 Veja a licença para mais detalhes.
 
 ## Contribution 🤝
-Feel free to fork the repository, submit issues, or create pull requests. Your contributions are welcome!
+Sinta-se à vontade para fazer um fork do repositório, enviar issues ou criar pull requests. Suas contribuições são bem-vindas!
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 <!-- Linkedin -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
