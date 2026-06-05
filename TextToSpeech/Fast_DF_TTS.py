@@ -7,7 +7,7 @@ import time
 import threading
 
 def generate_audio(message: str,voice : str = "Matthew"):
-    url: str = f"https://api.streamelements.com/kappa/v2/speech?voice={voice}&text={{{message}}}"
+    url: str = f"https://api.streamelements.com/kappa/v2/speech?voice=Jarvis&text=Olá"
 
     headers = {'User-Agent':'Mozilla/5.0(Maciontosh;intel Mac OS X 10_15_7)AppleWebKit/537.36(KHTML,like Gecoko)Chrome/119.0.0.0 Safari/537.36'}
     
